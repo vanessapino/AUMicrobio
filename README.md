@@ -1,4 +1,4 @@
-# AUMicrobio_beta_NSW
+# AUMicrobio
 This repository contains scripts used in modelling and map soil microbiomes dissimilarities across NSW, Australia.
 Raw sequences files for this study have been placed in the NCBI, SRA portal under BioProject ID PRJNA729592, samples accession numbers SAMN19115530 and SAMN19115531 for NS_transect and WE_transect, respectively. 
 
